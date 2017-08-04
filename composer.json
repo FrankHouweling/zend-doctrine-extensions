@@ -1,0 +1,21 @@
+{
+    "name": "frank-houweling/zend-doctrine-extensions",
+    "description": "Zend Framework 3 module for integrating gedmo/doctrine-extensions",
+    "type": "library",
+    "license": "GPL-2.0",
+    "keywords": [
+        "doctrine",
+        "extensions",
+        "filters",
+        "zend",
+        "zend framework",
+        "zf3",
+        "orm"
+    ],
+    "homepage": "http://www.senet.nl/",
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": "^7.1"
+    }
+ }
